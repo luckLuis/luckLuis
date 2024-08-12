@@ -12,7 +12,7 @@ I'm **Luis** (a.k.a. *luckLuis*), and I'm thrilled to have you visit my GitHub p
 
 - 💬 **Ask Me About:** My experiences with building applications using React and React Native, best practices in coding, or anything related to fintech and software development.
 
-- 📫 **How to Reach Me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luckluis) or drop me an email at [luis@example.com](mailto:luis@example.com).
+- 📫 **How to Reach Me:** Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/luckluis](https://www.linkedin.com/in/luis-antonio-jacome-334b7219a/)).
 
 - 😄 **Pronouns:** He/Him
 
